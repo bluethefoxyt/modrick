@@ -1,0 +1,12 @@
+E:\Projects\ModRick-Kesnote\Notepad\Notepad\bin\Debug\Notepad.exe
+E:\Projects\ModRick-Kesnote\Notepad\Notepad\bin\Debug\Notepad.pdb
+E:\Projects\ModRick-Kesnote\Notepad\Notepad\bin\Debug\Notepad.xml
+E:\Projects\ModRick-Kesnote\Notepad\Notepad\obj\x86\Debug\Notepad.Form1.resources
+E:\Projects\ModRick-Kesnote\Notepad\Notepad\obj\x86\Debug\Notepad.Resources.resources
+E:\Projects\ModRick-Kesnote\Notepad\Notepad\obj\x86\Debug\KesNote.vbproj.GenerateResource.Cache
+E:\Projects\ModRick-Kesnote\Notepad\Notepad\obj\x86\Debug\Notepad.exe
+E:\Projects\ModRick-Kesnote\Notepad\Notepad\obj\x86\Debug\Notepad.xml
+E:\Projects\ModRick-Kesnote\Notepad\Notepad\obj\x86\Debug\Notepad.pdb
+E:\Projects\ModRick-Kesnote\KesNote\Notepad\obj\x86\Debug\Notepad.exe
+E:\Projects\ModRick-Kesnote\KesNote\Notepad\obj\x86\Debug\Notepad.xml
+E:\Projects\ModRick-Kesnote\KesNote\Notepad\obj\x86\Debug\Notepad.pdb
