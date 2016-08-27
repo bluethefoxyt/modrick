@@ -1,1 +1,0 @@
-# modrick devs only
