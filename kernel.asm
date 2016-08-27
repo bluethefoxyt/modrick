@@ -11,7 +11,7 @@ _start:
    jnz .displaying
    jmp short $
  
-string: db "Testing Modrick OS's New Kernel !", 0
+string: db "Modrick OS", 0
 restart: 
 db 0x0ea 
 dw 0x0000 
